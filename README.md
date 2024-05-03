@@ -1,6 +1,3 @@
-
-Here's a template for your GitHub profile readme file:
-
 ---
 
 ### Hi there, I'm Arti Thesiya 👋
