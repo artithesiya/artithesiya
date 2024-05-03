@@ -1,4 +1,4 @@
----
+
 
 ### Hi there, I'm Arti Thesiya 👋
 
@@ -24,4 +24,4 @@ I'm a Senior Software Developer with over 6 years of experience in the field. My
 - I love experimenting with new recipes in my free time!
 
 Let's connect and build amazing things together! 🚀
----
+
