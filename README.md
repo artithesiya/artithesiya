@@ -25,3 +25,4 @@ I'm a Senior Software Developer with over 6 years of experience in the field. My
 
 Let's connect and build amazing things together! 🚀
 
+---
