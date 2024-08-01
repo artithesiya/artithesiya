@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Arti Thesiya 👋
 ---
-I'm a Senior Software Developer with over 6 years of experience in the field. My expertise lies in Java, Kotlin, Javascript, React native, Dart- Flutter.. I'm passionate about building innovative cross-platform applications and exploring new technologies.
+I'm a Senior Software Developer with over 6 years of experience in the field. My expertise lies in Java, Kotlin.. I'm passionate about building innovative cross-platform applications and exploring new technologies.
 
 ### 🔭 I’m currently working on
 - Improving my skills for mobile app development.
